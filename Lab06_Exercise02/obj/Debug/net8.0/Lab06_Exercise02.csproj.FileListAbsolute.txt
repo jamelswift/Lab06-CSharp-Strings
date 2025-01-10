@@ -1,0 +1,15 @@
+C:\Users\Wipat\OneDrive\เดสก์ท็อป\Lab6\Lab06-CSharp-Strings\Lab06_Exercise02\bin\Debug\net8.0\Lab06_Exercise02.exe
+C:\Users\Wipat\OneDrive\เดสก์ท็อป\Lab6\Lab06-CSharp-Strings\Lab06_Exercise02\bin\Debug\net8.0\Lab06_Exercise02.deps.json
+C:\Users\Wipat\OneDrive\เดสก์ท็อป\Lab6\Lab06-CSharp-Strings\Lab06_Exercise02\bin\Debug\net8.0\Lab06_Exercise02.runtimeconfig.json
+C:\Users\Wipat\OneDrive\เดสก์ท็อป\Lab6\Lab06-CSharp-Strings\Lab06_Exercise02\bin\Debug\net8.0\Lab06_Exercise02.dll
+C:\Users\Wipat\OneDrive\เดสก์ท็อป\Lab6\Lab06-CSharp-Strings\Lab06_Exercise02\bin\Debug\net8.0\Lab06_Exercise02.pdb
+C:\Users\Wipat\OneDrive\เดสก์ท็อป\Lab6\Lab06-CSharp-Strings\Lab06_Exercise02\obj\Debug\net8.0\Lab06_Exercise02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wipat\OneDrive\เดสก์ท็อป\Lab6\Lab06-CSharp-Strings\Lab06_Exercise02\obj\Debug\net8.0\Lab06_Exercise02.AssemblyInfoInputs.cache
+C:\Users\Wipat\OneDrive\เดสก์ท็อป\Lab6\Lab06-CSharp-Strings\Lab06_Exercise02\obj\Debug\net8.0\Lab06_Exercise02.AssemblyInfo.cs
+C:\Users\Wipat\OneDrive\เดสก์ท็อป\Lab6\Lab06-CSharp-Strings\Lab06_Exercise02\obj\Debug\net8.0\Lab06_Exercise02.csproj.CoreCompileInputs.cache
+C:\Users\Wipat\OneDrive\เดสก์ท็อป\Lab6\Lab06-CSharp-Strings\Lab06_Exercise02\obj\Debug\net8.0\Lab06_Exercise02.sourcelink.json
+C:\Users\Wipat\OneDrive\เดสก์ท็อป\Lab6\Lab06-CSharp-Strings\Lab06_Exercise02\obj\Debug\net8.0\Lab06_Exercise02.dll
+C:\Users\Wipat\OneDrive\เดสก์ท็อป\Lab6\Lab06-CSharp-Strings\Lab06_Exercise02\obj\Debug\net8.0\refint\Lab06_Exercise02.dll
+C:\Users\Wipat\OneDrive\เดสก์ท็อป\Lab6\Lab06-CSharp-Strings\Lab06_Exercise02\obj\Debug\net8.0\Lab06_Exercise02.pdb
+C:\Users\Wipat\OneDrive\เดสก์ท็อป\Lab6\Lab06-CSharp-Strings\Lab06_Exercise02\obj\Debug\net8.0\Lab06_Exercise02.genruntimeconfig.cache
+C:\Users\Wipat\OneDrive\เดสก์ท็อป\Lab6\Lab06-CSharp-Strings\Lab06_Exercise02\obj\Debug\net8.0\ref\Lab06_Exercise02.dll
